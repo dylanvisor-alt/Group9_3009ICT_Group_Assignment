@@ -1,2 +1,8 @@
-# Group9_3009ICT_Group_Assignment
-3009ICT Data Processing and Visualisation car advertisement dataset analysis. Cleaning, EDA, SQLite storage, and visualisation of car_dataset.csv and seller_dataset.csv for Griffith University assessment.
+# 3009ICT — Data Processing and Visualisation
+
+Cleaning, analysing, visualising a car sales advertisement.
+
+## Team
+- Dylan Smith (S5394318) — Data Formatting, Data Storage
+- Gabriella Lovric — Data Exploration & Cleaning
+- Dion Kircher (S5399878) — Interactive Visualisation
